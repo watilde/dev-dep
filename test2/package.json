@@ -1,0 +1,10 @@
+{
+  "name": "agreed",
+  "version": "2.0.1",
+  "description": "Agreed is a tool for Consumer Driven Contract with JSON mock server",
+  "license": "MIT",
+  "dependencies": {
+    "agreed-client": "^2.0.0",
+    "agreed-server": "^2.0.0"
+  }
+}
